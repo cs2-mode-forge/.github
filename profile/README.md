@@ -28,19 +28,7 @@ It provides a clean API, built‑in asset pipeline, and hot‑reload support —
 - 📊 **Performance profiler** — see exactly what your mod affects  
 - 🔌 **Community plugin registry** — share and discover mods
 
----
 
-## 📦 Quick Start
-
-```bash
-git clone https://github.com/cs2-mod-forge.git
-cd cs2-mod-forge
-./setup.sh
-./forge create my_first_mod
-./forge build
-```
-
-> 🧪 **Requires:** CS2 (Steam) + .NET 8.0 SDK
 
 ---
 
