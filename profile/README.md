@@ -33,7 +33,7 @@ It provides a clean API, built‑in asset pipeline, and hot‑reload support —
 ## 📦 Quick Start
 
 ```bash
-git clone https://github.com/your-org/cs2-mod-forge.git
+git clone https://github.com/cs2-mod-forge.git
 cd cs2-mod-forge
 ./setup.sh
 ./forge create my_first_mod
@@ -56,7 +56,7 @@ cd cs2-mod-forge
 ## 🖇️ Community & Support
 
 - 🐞 **Issues** → [GitHub Issues](https://github.com/your-org/cs2modforge/issues)
-- 📧 **Contact** → `support@cs2modforge.com`
+- 📧 **Contact** → `support@cs2modforge.buzz`
 
 ---
 
