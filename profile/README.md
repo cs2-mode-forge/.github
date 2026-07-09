@@ -56,7 +56,7 @@ cd cs2-mod-forge
 ## 🖇️ Community & Support
 
 - 🐞 **Issues** → [GitHub Issues](https://github.com/your-org/cs2modforge/issues)
-- 📧 **Contact** → `support@cs2modforge.buzz`
+- 📧 **Contact** → `support@csforgesoft.buzz`
 
 ---
 
